@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "BDQuest · examen de Bases de Datos",
+  "short_name": "BDQuest",
+  "description": "Modelo relacional, del E-R a las tablas y normalización, con test, simulacro y ejercicios.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f0f7",
+  "theme_color": "#241a47",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
